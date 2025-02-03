@@ -1,6 +1,8 @@
 {
-  "users": [{
+  "users": [
+    {
       "id": 1,
-      "email": "johnsmith@yahoo.com"
-  }]
+      "email": "johnsmith@yahoo.com
+    }
+  ]
 }
