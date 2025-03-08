@@ -1,7 +1,9 @@
 {
   "users": [
     {
-      "email": "johnsmith@yahoo.com"
+      "email": "johnsmith@yahoo.com",
+      "password": "passwsord123",
+      "authToken": 9993334
     }
   ]
 }
